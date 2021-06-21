@@ -3,3 +3,6 @@ description: >-
   Project to run a car dashboard from ETS2
 
 theme: jekyll-theme-midnight
+
+author:
+  name             : "Your Sidebar Name"
